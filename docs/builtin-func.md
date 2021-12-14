@@ -1,4 +1,4 @@
-# 📔 Wopslang Builtin Functions `v0.1`
+# Wopslang Builtin Functions `v0.1`
 
 |Name|Brief Summary|Parameter|Return|
 |----|-------------|---------|------|
