@@ -512,44 +512,44 @@ Redirect to [here][ext-link-1]
 
 <!-- Link -->
 
-[Introduction]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#introduction
-[Notation]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#notation
-[Source Code Representation]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#source-code-representation
-[Lexical Elements]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#lexical-elements
-[Types]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#types
-[Variables]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#variables
-[Expressions]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#expressions
-[Statements]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#statements
-[If Statement]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#if-statement
-[For Statement]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#for-statement
-[Builtin functions]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#builtin-functions
-[Tokens]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#tokens
-[Predeclared Identifiers]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#predeclared-identifiers
+[Introduction]: https://wopslang.github.io/docs/docs/grammar/#introduction
+[Notation]: https://wopslang.github.io/docs/docs/grammar/#notation
+[Source Code Representation]: https://wopslang.github.io/docs/docs/grammar/#source-code-representation
+[Lexical Elements]: https://wopslang.github.io/docs/docs/grammar/#lexical-elements
+[Types]: https://wopslang.github.io/docs/docs/grammar/#types
+[Variables]: https://wopslang.github.io/docs/docs/grammar/#variables
+[Expressions]: https://wopslang.github.io/docs/docs/grammar/#expressions
+[Statements]: https://wopslang.github.io/docs/docs/grammar/#statements
+[If Statement]: https://wopslang.github.io/docs/docs/grammar/#if-statement
+[For Statement]: https://wopslang.github.io/docs/docs/grammar/#for-statement
+[Builtin functions]: https://wopslang.github.io/docs/docs/grammar/#builtin-functions
+[Tokens]: https://wopslang.github.io/docs/docs/grammar/#tokens
+[Predeclared Identifiers]: https://wopslang.github.io/docs/docs/grammar/#predeclared-identifiers
 [UTF-8]: https://en.wikipedia.org/wiki/UTF-8
-[Characters]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#characters
-[Letter and Digits]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#letter-and-digits
-[Comments]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#comments
-[Semicolons]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#semicolons
-[Identifiers]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#identifiers
-[Keywords]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#keywords
-[Operators and Punctuation]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#operators-and-punctuation
-[Integer Literal]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#integer-literal
-[Floating-point Literal]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#floating-point-literal
-[Rune Literal]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#rune-literal
-[String Literal]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#string-literal
-[Boolean Literal]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#boolean-literal
-[Blocks]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#blocks
-[Declarations]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#declarations
-[Operands]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#operands
-[Calls]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#calls
-[Operators]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#operators
-[Arithmetic Operators]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#arithmetic-operators
-[Conversion]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#conversion
-[Blank Statement]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#blank-statement
-[Assignment]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#assignment
-[If Statement]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#if-statement
-[For Statement]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#for-statement
-[Break and Continue Statement]: https://github.com/Wopslang/Wops/blob/main/doc/grammar.md#break-and-continue-statement
+[Characters]: https://wopslang.github.io/docs/docs/grammar/#characters
+[Letter and Digits]: https://wopslang.github.io/docs/docs/grammar/#letter-and-digits
+[Comments]: https://wopslang.github.io/docs/docs/grammar/#comments
+[Semicolons]: https://wopslang.github.io/docs/docs/grammar/#semicolons
+[Identifiers]: https://wopslang.github.io/docs/docs/grammar/#identifiers
+[Keywords]: https://wopslang.github.io/docs/docs/grammar/#keywords
+[Operators and Punctuation]: https://wopslang.github.io/docs/docs/grammar/#operators-and-punctuation
+[Integer Literal]: https://wopslang.github.io/docs/docs/grammar/#integer-literal
+[Floating-point Literal]: https://wopslang.github.io/docs/docs/grammar/#floating-point-literal
+[Rune Literal]: https://wopslang.github.io/docs/docs/grammar/#rune-literal
+[String Literal]: https://wopslang.github.io/docs/docs/grammar/#string-literal
+[Boolean Literal]: https://wopslang.github.io/docs/docs/grammar/#boolean-literal
+[Blocks]: https://wopslang.github.io/docs/docs/grammar/#blocks
+[Declarations]: https://wopslang.github.io/docs/docs/grammar/#declarations
+[Operands]: https://wopslang.github.io/docs/docs/grammar/#operands
+[Calls]: https://wopslang.github.io/docs/docs/grammar/#calls
+[Operators]: https://wopslang.github.io/docs/docs/grammar/#operators
+[Arithmetic Operators]: https://wopslang.github.io/docs/docs/grammar/#arithmetic-operators
+[Conversion]: https://wopslang.github.io/docs/docs/grammar/#conversion
+[Blank Statement]: https://wopslang.github.io/docs/docs/grammar/#blank-statement
+[Assignment]: https://wopslang.github.io/docs/docs/grammar/#assignment
+[If Statement]: https://wopslang.github.io/docs/docs/grammar/#if-statement
+[For Statement]: https://wopslang.github.io/docs/docs/grammar/#for-statement
+[Break and Continue Statement]: https://wopslang.github.io/docs/docs/grammar/#break-and-continue-statement
 [ext-link-1]: https://github.com/Wopslang/Wops/blob/main/lib/functions.md
 
 © 2021 Wops Team
