@@ -550,6 +550,6 @@ Redirect to [here][ext-link-1]
 [If Statement]: https://wopslang.github.io/docs/docs/grammar/#if-statement
 [For Statement]: https://wopslang.github.io/docs/docs/grammar/#for-statement
 [Break and Continue Statement]: https://wopslang.github.io/docs/docs/grammar/#break-and-continue-statement
-[ext-link-1]: https://github.com/Wopslang/Wops/blob/main/lib/functions.md
+[ext-link-1]: https://wopslang.github.io/docs/docs/builtin-func
 
 © 2021 Wops Team

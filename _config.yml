@@ -67,7 +67,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Wopslang on GitHub":
+  "GitHub Repo":
     - "https://github.com/Wopslang/Wops"
 
 # Makes Aux links open in a new tab. Default is false

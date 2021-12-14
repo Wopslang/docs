@@ -17,6 +17,7 @@ func<Answer> Documentation(question) {
 ## 📜 Reference
 
 *[Official Reference for v0.1](docs/grammar.md)*
+*[Wopslang Builtin Functions in v0.1](docs/builtin-func.md)*
 
 ## 📓 Guidebook
 
