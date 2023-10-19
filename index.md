@@ -1,24 +1,23 @@
----
-layout: default
-title: Home
-description: "Wopslang Documentation"
-nav_order: 1
----
-
-# 📔 Documentation
+# 📔 Wopslang Documentation
 
 ```go
-func<Answer> Documentation(question) {
-    Dict doc = loadDoc()
-    return doc[question]
+func<Question Answer> Documentation = {question, {
+        Dict<> doc = loadDoc()
+        return doc[question]
+    }
 }
 ```
 
-## 📜 Reference
+## 📜 Language Reference
 
-*[Official Reference for v0.1](docs/grammar.md)*  
-*[Wopslang Builtin Functions in v0.1](docs/builtin-func.md)*  
+_[Official Reference for v0.1](docs/grammar.md)_
+
+## ⚡️ Built-in Function
+
+_[Wopslang Builtin Functions for v0.1](docs/functions.md)_
 
 ## 📓 Guidebook
 
-*[Comming Soon...]()*
+_[How to install and launch Wopslang](docs/howto.md)_
+
+2023, Wops Team
